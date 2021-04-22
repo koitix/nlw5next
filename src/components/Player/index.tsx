@@ -11,6 +11,7 @@ export function Player(){
             <div className={styles.emptyPlayer}>
                 <strong>Selecione um podcast para ouvir</strong>
             </div>
+            
             <footer className={styles.empty}>
                 <div className={styles.progress}>
                     <span>00:00</span>
